@@ -5,7 +5,7 @@ params.output = ""
 params.fc = "FLO-MIN106"
 params.kit = "SQK-LSK108"
 params.threads = 20
-params.demultiplex = true
+params.demultiplex = false
 params.format = "fast5,fastq"
 extra_params = ""
 
